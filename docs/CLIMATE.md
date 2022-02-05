@@ -177,6 +177,8 @@ Contributing to your own code files is welcome. However, we do not accept incomp
 | [1083](../codes/climate/1083.json) | RAS-32CNH2                                                    | Broadlink  |
 | [1084](../codes/climate/1084.json) | RAS-DX18HDK                                                   | Broadlink  |
 | [1085](../codes/climate/1085.json) | RPA24B3BL                                                     | Broadlink  |
+| [9999](../codes/climate/1085.json) | RAS-53CNH2                                                     | Broadlink  |
+
 
 #### Daikin
 | Code                               | Supported Models                                                                                                                                               | Controller |
